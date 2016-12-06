@@ -5,9 +5,6 @@
 # Reference List:
 # Gaddis, T. (2015). "Starting Out With Python"
 #
-# Note: This program did not work on the computer it was written and tested on, for whatever reason
-# (I even talked to two TAs about it).
-#
 
 # Test loop counter
 loop_counter = 0
